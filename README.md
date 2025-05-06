@@ -21,7 +21,7 @@ Desenvolvi um fluxo de conversa que inclui:
 
 ## 📷 Capturas de Tela  
 Aqui estão algumas imagens demonstrando a criação do fluxo de conversa:  
-![Exemplo do Fluxo](https://github.com/seu-usuario/seu-repositorio/imagem1.png)  
+![Exemplo do Fluxo](https://github.com/Rafaeldovale/copilotoII/blob/main/image.png)  
 
 ## 📝 Observações e Melhorias  
 - O Copiloto pode ser aprimorado com **novos fluxos de resposta**.  
